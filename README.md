@@ -40,4 +40,4 @@ I'm exploring more real-world applications like:
 
 ---
 
-🔗 **Check out my main profile for more:** [Adarsh-OPP](https://github.com/Adarsh-OPP)
+🔗 *More project will be added soon.Check out my main profile for more:** [Adarsh-OPP](https://github.com/Adarsh-OPP)
