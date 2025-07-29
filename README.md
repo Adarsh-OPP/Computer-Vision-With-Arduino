@@ -32,15 +32,6 @@ A beginner-friendly color detection system using HSV filtering.
 
 ---
 
-## 🛠️ [My First Arduino Projects](https://github.com/Adarsh-OPP/Arduino_Projects)
-A growing collection of small yet powerful Arduino-based experiments.
-- 🔋 Sensor interfacing and motor control
-- 📡 Communication with Python (via Serial)
-- 🧠 Foundation for robotics and embedded AI integration
-- 🤖 Useful for quick prototyping and hardware testing
-
----
-
 ### 🎯 What's Next?
 I'm exploring more real-world applications like:
 - Hand gesture-controlled robots
