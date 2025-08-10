@@ -5,6 +5,16 @@ This section showcases my hands-on projects combining **Computer Vision** and **
 
 ---
 
+## 🚗 [Wi-Fi Controlled Car with ESP8266](https://github.com/Adarsh-OPP/Wi-Fi-Controlled-Car-with-ESP8266)
+A car controlled entirely over Wi-Fi using an ESP8266 NodeMCU.
+- 📡 Hosts a web interface for remote control
+- 🎮 Two control modes: on-screen buttons or game controller
+- 🔌 Connect to car Wi-Fi (SSID: `ESP`, Password: `12345678`) and visit `192.168.4.1`
+- ⚙️ Real-time commands for forward, backward, left, right, and stop
+- 🛠 Learned ESP8266 programming, web server hosting, and motor driver control
+
+---
+
 ## ✋ [Servo Movement with Hand Gesture](https://github.com/Adarsh-OPP/Servo_move_with-_hand_gesture)
 Control a servo motor using hand gesture recognition via webcam.
 - 🖐️ Uses MediaPipe for real-time hand tracking
@@ -40,4 +50,4 @@ I'm exploring more real-world applications like:
 
 ---
 
-🔗 *More project will be added soon.Check out my main profile for more:** [Adarsh-OPP](https://github.com/Adarsh-OPP)
+🔗 *More projects will be added soon. Check out my main profile for more:* **[Adarsh-OPP](https://github.com/Adarsh-OPP)**
