@@ -1,7 +1,7 @@
-# Computer-Vision-With-Arduino
-# 🤖 Computer Vision with Arduino Projects
+# Computer-Vision-With-Embedded-Systems
+# 🤖 Computer Vision with Embedded-Systems Projects
 
-This section showcases my hands-on projects combining **Computer Vision** and **Arduino** to interact with the real world using Python, OpenCV, and embedded systems.
+This section showcases my hands-on projects combining **Computer Vision** and **Embedded-Systems** to interact with the real world using Python, OpenCV, and embedded systems.
 
 ---
 
