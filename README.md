@@ -15,6 +15,18 @@ A car controlled entirely over Wi-Fi using an ESP8266 NodeMCU.
 
 ---
 
+## ✍️ [Air Whiteboard](https://github.com/Adarsh-OPP/Air_Whiteboard)
+A virtual whiteboard that lets you draw in the air using hand gestures.  
+
+- 🖐️ Detects hand using **Mediapipe** and tracks index finger for drawing  
+- 🎨 Supports drawing, erasing, and clearing the board  
+- 📸 Uses **OpenCV** for real-time video capture and canvas overlay  
+- 🛠 Learned hand tracking, gesture recognition, and real-time drawing with OpenCV  
+- ⚡ Works with just a webcam — no physical whiteboard or pen required  
+
+---
+
+
 ## ✋ [Servo Movement with Hand Gesture](https://github.com/Adarsh-OPP/Servo_move_with-_hand_gesture)
 Control a servo motor using hand gesture recognition via webcam.
 - 🖐️ Uses MediaPipe for real-time hand tracking
